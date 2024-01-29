@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingWithElmah", "LoggingWithElmah.csproj", "{D1A46324-F0EB-4BAC-BE63-1D8CC528ECD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A46324-F0EB-4BAC-BE63-1D8CC528ECD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A46324-F0EB-4BAC-BE63-1D8CC528ECD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A46324-F0EB-4BAC-BE63-1D8CC528ECD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A46324-F0EB-4BAC-BE63-1D8CC528ECD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
